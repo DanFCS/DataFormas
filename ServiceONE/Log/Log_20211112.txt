@@ -1,0 +1,3 @@
+﻿Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [07001] [SAP AG][LIBODBCHDB DLL][HDBODBC] Wrong number of parameters;270 not enough values: 'aguzman@zeustecnologia.com': line 1 col 483 (at pos 482)/ Hora: 12:06:56 PM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [07001] [SAP AG][LIBODBCHDB DLL][HDBODBC] Wrong number of parameters;270 not enough values: 'aguzman@aade.com': line 1 col 483 (at pos 482)/ Hora: 12:06:57 PM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [07001] [SAP AG][LIBODBCHDB DLL][HDBODBC] Wrong number of parameters;270 not enough values: 'aguzman@zeustecnologia.com': line 1 col 483 (at pos 482)/ Hora: 13:43:42 PM

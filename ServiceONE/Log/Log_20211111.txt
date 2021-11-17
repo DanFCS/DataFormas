@@ -1,0 +1,7 @@
+﻿Error en el POST al insertar el Json a CLIENTES  : Object reference not set to an instance of an object./ Hora: 09:58:25 AM
+Error en el POST al insertar el Json a CLIENTES  : Object reference not set to an instance of an object./ Hora: 09:59:56 AM
+Error en el POST al insertar en Clientes : Value cannot be null.
+Parameter name: input/ Hora: 10:00:09 AM
+Error en el POST al insertar en Clientes : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;274 inserted value too large for column: Failed in "U_tipo_identificacion" column with the value '11'/ Hora: 11:00:05 AM
+Error en el POST al insertar en Clientes : Input string was not in a correct format./ Hora: 13:23:56 PM
+Error en el POST al insertar en Clientes : Input string was not in a correct format./ Hora: 13:25:04 PM

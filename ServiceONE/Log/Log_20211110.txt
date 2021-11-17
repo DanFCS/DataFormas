@@ -1,0 +1,16 @@
+﻿Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 09:33:58 AM
+Error en el POST al insertar en ARTICULOS : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: A000001: line 1 col 61 (at pos 60)/ Hora: 09:34:48 AM
+Error en el POST al insertar en ARTICULOS : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: A000002: line 1 col 61 (at pos 60)/ Hora: 09:35:49 AM
+Error en el POST al insertar en ARTICULOS : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: A000001: line 1 col 61 (at pos 60)/ Hora: 09:37:52 AM
+Error en el POST al insertar en ARTICULOS : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near "WHERE": line 1 col 35 (at pos 35)/ Hora: 09:37:52 AM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 09:40:38 AM
+Error en el POST al insertar en ARTICULOS : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near "WHERE": line 1 col 35 (at pos 35)/ Hora: 10:03:01 AM
+Error en el POST al insertar en ARTICULOS : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near ".": line 1 col 33 (at pos 33)/ Hora: 10:21:53 AM
+Error en el POST al insertar en ARTICULOS : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: incorrect syntax near ".": line 1 col 33 (at pos 33)/ Hora: 10:25:13 AM
+Error en el POST al insertar en ARTICULOS : DocEntry/ Hora: 10:27:03 AM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 10:47:57 AM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 11:06:57 AM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 13:38:28 PM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 13:39:14 PM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 13:40:13 PM
+Error en el POST al insertar el Json a ARTICULOS  : Object reference not set to an instance of an object./ Hora: 14:14:58 PM

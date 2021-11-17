@@ -1,0 +1,41 @@
+﻿Error en el POST al insertar el Detalle PAGOS_EN-PAGOS_DET : ERROR [42S02] [SAP AG][LIBODBCHDB DLL][HDBODBC] Base table or view not found;259 invalid table name:  Could not find table/view PAGOS_EN in schema 10031_BDDOCS: line 1 col 28 (at pos 27)/ Hora: 10:55:05 AM
+Error en el POST al insertar el Detalle PAGOS_EN-PAGOS_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 10:55:05 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: line 1 col 323 (at pos 323)/ Hora: 11:00:14 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: line 1 col 325 (at pos 325)/ Hora: 11:00:14 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: line 1 col 323 (at pos 323)/ Hora: 11:10:31 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [42S02] [SAP AG][LIBODBCHDB DLL][HDBODBC] Base table or view not found;259 invalid table name:  Could not find table/view FE_DET in schema 10031_BDDOCS: line 1 col 28 (at pos 27)/ Hora: 11:10:31 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [42S02] [SAP AG][LIBODBCHDB DLL][HDBODBC] Base table or view not found;259 invalid table name:  Could not find table/view FE_DET in schema 10031_BDDOCS: line 1 col 28 (at pos 27)/ Hora: 11:12:43 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 256 (at pos 255)/ Hora: 11:24:39 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:24:39 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 256 (at pos 255)/ Hora: 11:25:15 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:25:15 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 256 (at pos 255)/ Hora: 11:32:30 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:32:31 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 254 (at pos 253)/ Hora: 11:38:21 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:38:21 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 254 (at pos 253)/ Hora: 11:42:36 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:42:37 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 254 (at pos 253)/ Hora: 11:48:30 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:48:31 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: H: line 1 col 254 (at pos 253)/ Hora: 11:55:37 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:55:37 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: P: line 1 col 254 (at pos 253)/ Hora: 11:59:17 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 11:59:17 AM
+Error al insertar de la Tabla Intermedia a SAP en OINV: /DocSubType / Hora: 14:07:19 PM
+Error al insertar de la Tabla Intermedia a SAP en OINV: /DocSubType / Hora: 14:08:26 PM
+Error al insertar de la Tabla Intermedia a SAP en OINV: /DocSubType / Hora: 14:10:54 PM
+Error al insertar de la Tabla Intermedia a SAP en OINV: /Illegal value entered/ Hora: 14:17:41 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en OINV: 540000160 - No puede continuar; la norma de reparto D001 no está relacionada con la dimensión 1/ Hora: 14:23:18 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en OINV: 540000160 - No puede continuar; la norma de reparto D004 no está relacionada con la dimensión 1/ Hora: 14:32:16 PM
+Error al insertar de la Tabla Intermedia a SAP en OINV: // Hora: 14:32:16 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en OINV: 540000160 - No puede continuar; la norma de reparto D004 no está relacionada con la dimensión 1/ Hora: 14:33:03 PM
+Error al insertar de la Tabla Intermedia a SAP en OINV: // Hora: 14:33:03 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en OINV: 540000160 - No puede continuar; la norma de reparto D004 no está relacionada con la dimensión 1/ Hora: 14:35:04 PM
+Error al insertar de la Tabla Intermedia a SAP en OINV: // Hora: 14:35:04 PM
+Error al insertar de la Tabla Intermedia a SAP en ORIN: /Illegal value entered/ Hora: 15:35:07 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en ORIN: 10000100 - El valor total del documento debe ser cero o superior a cero/ Hora: 15:36:29 PM
+Error al insertar de la Tabla Intermedia a SAP en ORIN: // Hora: 15:36:36 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en ORIN: 10000100 - El valor total del documento debe ser cero o superior a cero/ Hora: 15:46:34 PM
+Error al insertar de la Tabla Intermedia a SAP en ORIN: // Hora: 15:46:34 PM
+Error en el proceso de agregar de la Tabla Intermedia a SAP en ORIN: 10000100 - El valor total del documento debe ser cero o superior a cero/ Hora: 15:50:56 PM
+Error al insertar de la Tabla Intermedia a SAP en ORIN: // Hora: 15:50:58 PM

@@ -1,0 +1,8 @@
+﻿Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: Tipo_identificacion/ Hora: 08:42:32 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: Tipo_identificacion/ Hora: 08:42:32 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: Tipo_identificacion/ Hora: 08:54:53 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: DocTotal/ Hora: 08:54:53 AM
+Error en el POST al insertar el Detalle FE_EN-FE_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: DocTotal/ Hora: 08:56:59 AM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: CardCode/ Hora: 17:19:41 PM
+Error en el POST al insertar el Detalles NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 17:19:41 PM
+Error en el POST de las tablas NC_EN-NC_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 17:19:46 PM

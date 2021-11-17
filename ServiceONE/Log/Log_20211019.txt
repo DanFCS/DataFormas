@@ -1,0 +1,17 @@
+﻿Prueba en ServeOne Costos Ecomm: / Hora: 09:13:13 AM
+Prueba en ServeOne OCRD Ecomm: / Hora: 09:13:34 AM
+Prueba en ServeOne OITM Ecomm: / Hora: 09:13:34 AM
+Prueba en ServeOne OPOR Ecomm: / Hora: 09:13:34 AM
+Prueba en ServeOne OSTC Ecomm: / Hora: 09:13:34 AM
+Prueba en ServeOne OWTR Ecomm: / Hora: 09:13:34 AM
+Prueba en ServeOne Costos Ecomm: / Hora: 09:44:01 AM
+Prueba en ServeOne OCRD Ecomm: / Hora: 09:44:01 AM
+Prueba en ServeOne OITM Ecomm: / Hora: 09:44:01 AM
+Prueba en ServeOne OPOR Ecomm: / Hora: 09:44:02 AM
+Prueba en ServeOne OSTC Ecomm: / Hora: 09:44:02 AM
+Prueba en ServeOne OWTR Ecomm: / Hora: 09:44:02 AM
+Prueba Get Costos : / Hora: 09:47:05 AM
+Prueba Get Costos : / Hora: 09:47:22 AM
+Prueba Get Costos : / Hora: 10:27:14 AM
+Prueba Get Costos : / Hora: 10:28:35 AM
+Error en el POST de las tablas PAGOS_EN-PAGOS_DET : ExecuteReader requires an open and available Connection. The connection's current state is closed./ Hora: 16:54:28 PM

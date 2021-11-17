@@ -1,0 +1,5 @@
+﻿Error en el POST de las tabla CLIENTE : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: C000001: line 1 col 91 (at pos 90)/ Hora: 09:12:31 AM
+Error en el POST de las tabla CLIENTE : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: C000001: line 1 col 91 (at pos 90)/ Hora: 09:13:20 AM
+Error en el POST de las tabla CLIENTE : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: C000001: line 1 col 91 (at pos 90)/ Hora: 09:14:17 AM
+Error en el POST de las tabla CLIENTE : Object reference not set to an instance of an object./ Hora: 09:23:31 AM
+Error en el POST de las tabla CLIENTE : ERROR [S1000] [SAP AG][LIBODBCHDB DLL][HDBODBC] General error;260 invalid column name: CardCode: line 1 col 80 (at pos 79)/ Hora: 09:58:47 AM

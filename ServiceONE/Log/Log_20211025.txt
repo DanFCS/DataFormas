@@ -1,0 +1,1 @@
+﻿Error en el POST al insertar el  CLIENTE : ERROR [42000] [SAP AG][LIBODBCHDB DLL][HDBODBC] Syntax error or access violation;257 sql syntax error: unterminated quoted string literal: line 1 col 216 (at pos 216)/ Hora: 16:47:40 PM
